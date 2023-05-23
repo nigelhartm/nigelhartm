@@ -2,7 +2,7 @@
 
 ## Actual focus
 * Bioinformatics
-* AI/ML (NLP)
+* AI/ML/NLP
 * Image processing
 * reverse engineering / C++ / x86 Assembly / electronics
 * data scraping
