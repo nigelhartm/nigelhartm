@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# WELCOME to my profile!
 
 ## Actual focus
 * Bioinformatics
