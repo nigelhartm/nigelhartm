@@ -1,5 +1,5 @@
 # Welcome to my profile!
-<br>
+
 ![alt text](robot_new.gif)
 <br>
 
