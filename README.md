@@ -1,4 +1,4 @@
-# Welcome to my profile!
+# Welcome to my profile! Check out some of my projects.
 ![alt text](cat1.gif)
 
 ## Actual focus
