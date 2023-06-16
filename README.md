@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my profile! Feel free to check out some of my projects.</h1>
+<h1 align="center">Welcome to my profile!<br>Feel free to check out some of my projects.</h1>
 
 <p align="center">
   <img src="./cat1.gif">
