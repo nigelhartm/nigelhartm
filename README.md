@@ -1,5 +1,7 @@
-# Welcome to my profile! Check out some of my projects.
-![alt text](cat1.gif)
+# Welcome to my profile! Feel free to check out some of my projects.
+<p align="center">
+  <img src="./cat1.gif">
+</p>
 
 ## Actual focus
 * Bioinformatics 💻 + 🧬 = ❤️
