@@ -1,7 +1,5 @@
 # Welcome to my profile!
-<p align="center">
 ![alt text](cat1.gif)
-</p>
 
 ## Actual focus
 * Bioinformatics 💻 + 🧬 = ❤️
