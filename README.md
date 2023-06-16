@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-![alt text](robot_new.gif)
+![alt text](cat1.gif)
 <br>
 
 ## Actual focus
