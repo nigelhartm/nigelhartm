@@ -13,7 +13,7 @@
   <li>C++ / x86 Assembly / electronics</li>
   <li>data scrapingg</li>
   <li>Python</li>
-  <li>Pytorch/li>
+  <li>Pytorch</li>
 </ul>
 
 <h2 align="center">About me</h2>
