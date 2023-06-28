@@ -11,7 +11,7 @@
   <li>AI/ML/NLP</li>
   <li>Image processing</li>
   <li>C++ / x86 Assembly / electronics</li>
-  <li>data scrapingg</li>
+  <li>data scraping</li>
   <li>Python</li>
   <li>Pytorch</li>
 </ul>
