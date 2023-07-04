@@ -22,4 +22,6 @@
 
 <h2 align="center">Check out my [...]</h2>
 
-<a href="https://www.kaggle.com/nigelhartm"><img src="https://www.kaggle.com/static/images/site-logo.png" style="width:50px;height:50px;"></a>
+<a href="https://www.kaggle.com/nigelhartm"><img src="kaggle.svg" style="width:50px;height:50px;"></a>
+<a href="https://huggingface.co/nigelhartm"><img src="linkedin.svg" style="width:50px;height:50px;"></a>
+<a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="hugging-face.svg" style="width:50px;height:50px;"></a>
