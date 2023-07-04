@@ -22,7 +22,7 @@
 
 <h2 align="center"> </h2>
 
-<div style="text-align: center;">
+<div align="center">
 <a href="https://www.kaggle.com/nigelhartm"><img src="kaggle.svg" style="width:50px;height:50px;"></a>
 <a href="https://huggingface.co/nigelhartm"><img src="linkedin.svg" style="width:50px;height:50px;"></a>
 <a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="hugging-face.svg" style="width:50px;height:50px;"></a>
