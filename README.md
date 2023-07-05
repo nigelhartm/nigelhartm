@@ -32,12 +32,14 @@
 -->
 <table align="center">
 <tr>
+  <th>Website</th>
   <th>Github</th>
   <th>Kaggle</th>
   <th>Huggingface</th>
   <th>LinkedIn</th>
 </tr>
 <tr>
+  <td><a href="https://nigelhartm.github.io/"><img src="github.svg" style="width:75px;height:75px;"></a></td>
   <td><a href="https://github.com/nigelhartm"><img src="github.svg" style="width:75px;height:75px;"></a></td>
   <td><a href="https://www.kaggle.com/nigelhartm"><img src="kaggle.svg" style="width:75px;height:75px;"></a></td>
   <td><a href="https://huggingface.co/nigelhartm"><img src="hugging-face.svg" style="width:75px;height:75px;"></a></td>
