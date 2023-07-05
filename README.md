@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="linkedin.svg" style="width:50px;height:50px;"></a>
 </div>
 <br>
- <table>
+ <table align="center">
   <tr>
     <th>Github</th>
     <th>Kaggle</th>
