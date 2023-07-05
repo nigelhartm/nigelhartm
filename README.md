@@ -24,7 +24,7 @@
 <br>
 <div align="center">
 <a href="https://github.com/nigelhartm"><img src="github.svg" style="width:50px;height:50px;"><br>GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/nigelhartm"><img src="kaggle.svg" style="width:50px;height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://huggingface.co/nigelhartm"><img src="hugging-face.svg" style="width:50px;height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="linkedin.svg" style="width:50px;height:50px;"></a>
+<a href="https://www.kaggle.com/nigelhartm"><img src="kaggle.svg" style="width:50px;height:50px;"><br>GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://huggingface.co/nigelhartm"><img src="hugging-face.svg" style="width:50px;height:50px;"><br>GitHub</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="linkedin.svg" style="width:50px;height:50px;"><br>GitHub</a>
 </div>
