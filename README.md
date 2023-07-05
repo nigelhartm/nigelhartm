@@ -30,8 +30,8 @@
 </div>
 <br>
 <p float="left">
-<a href="https://github.com/nigelhartm"><div style="width:50px;"><img src="github.svg" style="width:50px;height:50px;" align="top"><br>GitHub</div></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/nigelhartm"><div style="width:50px;"><img src="kaggle.svg" style="width:50px;height:50px;" align="top"><br>GitHub</div></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://huggingface.co/nigelhartm"><div style="width:50px;"><img src="hugging-face.svg" style="width:50px;height:50px;" align="top"><br>GitHub</div></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><div style="width:50px;"><img src="linkedin.svg" style="width:50px;height:50px;" align="top"><br>GitHub</div></a>
+<a href="https://github.com/nigelhartm"><p style="width:50px;"><img src="github.svg" style="width:50px;height:50px;" align="top"><br>GitHub</p></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.kaggle.com/nigelhartm"><p style="width:50px;"><img src="kaggle.svg" style="width:50px;height:50px;" align="top"><br>GitHub</p></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://huggingface.co/nigelhartm"><p style="width:50px;"><img src="hugging-face.svg" style="width:50px;height:50px;" align="top"><br>GitHub</p></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><p style="width:50px;"><img src="linkedin.svg" style="width:50px;height:50px;" align="top"><br>GitHub</p></a>
 </p>
