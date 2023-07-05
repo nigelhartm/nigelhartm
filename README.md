@@ -29,9 +29,17 @@
 <a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="linkedin.svg" style="width:50px;height:50px;"></a>
 </div>
 <br>
-<p float="left">
-<a href="https://github.com/nigelhartm"><p style="width:50px;"><img src="github.svg" style="width:50px;height:50px;" align="top"><br>GitHub</p></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.kaggle.com/nigelhartm"><p style="width:50px;"><img src="kaggle.svg" style="width:50px;height:50px;" align="top"><br>GitHub</p></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://huggingface.co/nigelhartm"><p style="width:50px;"><img src="hugging-face.svg" style="width:50px;height:50px;" align="top"><br>GitHub</p></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><p style="width:50px;"><img src="linkedin.svg" style="width:50px;height:50px;" align="top"><br>GitHub</p></a>
-</p>
+ <table>
+  <tr>
+    <th>Github</th>
+    <th>Kaggle</th>
+    <th>Huggingface</th>
+    <th>LinkedIn</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nigelhartm"><img src="github.svg" style="width:50px;height:50px;"></a></td>
+    <td><a href="https://www.kaggle.com/nigelhartm"><img src="kaggle.svg" style="width:50px;height:50px;"></a></td>
+    <td><a href="https://huggingface.co/nigelhartm"><img src="hugging-face.svg" style="width:50px;height:50px;"></a></td>
+    <td><a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="linkedin.svg" style="width:50px;height:50px;"></a></td>
+  </tr>
+</table> 
