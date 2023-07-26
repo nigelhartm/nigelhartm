@@ -7,7 +7,7 @@
 <h2 align="center">Actual focus</h2>
 <br>
 <ul>
-  <li>Bioinformatics 💻 + 🧬 = ❤️</li>
+  <li>Bioinformatics</li>
   <li>AI/ML/NLP</li>
   <li>Image processing</li>
   <li>C++ / x86 Assembly / electronics</li>
