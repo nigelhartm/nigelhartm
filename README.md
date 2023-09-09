@@ -24,6 +24,7 @@
 <p>As a software engineer with a background in telecommunications, I bring a unique perspective and a set of skills to the field of bioinformatics. My proficiency in programming and machine learning along with my experience in building robust and scalable systems, allows me to approach problem-solving in bioinformatics from a different angle. I am currently furthering my education by studying for a Master's degree in Bioinformatics at the University of Potsdam. My goal is to use my skills and knowledge to drive innovation and make a positive impact in healthcare and biotechnology.</p>
 
 <h2 align="center">Showcase</h2>
+Here are some previews of my projects, feel free to check out my repositories in detail.
 <img src="./showcase.gif">
 
 <h2 align="center">Check out my [...]</h2>
