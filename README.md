@@ -7,12 +7,12 @@
 <h2 align="center">Interest</h2>
 <br>
 <ul>
-  <li>Neuroscience</li>
-  <li>Bioinformatics</li>
   <li>Computer Networking/IoT</li>
   <li>AI/ML/NLP</li>
   <li>Image processing</li>
   <li>C++ / x86 Assembly / electronics</li>
+  <li>Neuroscience</li>
+  <li>Bioinformatics</li>
   <li>data scraping</li>
   <li>Python</li>
   <li>Pytorch</li>
