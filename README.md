@@ -1,5 +1,5 @@
-<h1 align="center">Hello World!<br>Feel free to check out some of my projects.</h1>
-
+<!--<h1 align="center">Hello World!<br>Feel free to check out some of my projects.</h1>-->
+# $$\boxed{\color{red} \frak{ Hello \space World !<br>Feel \space free \space to \space check \space out \space some \space of \space my \space projects.} } $$
 <p align="center">
   <img src="./cat1.gif">
 </p>
