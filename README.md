@@ -1,11 +1,11 @@
-<!--<h1 align="center">Hello World!<br>Feel free to check out some of my projects.</h1>-->
-# $$\boxed{\color{red} \frak{ Hello \space World !Feel \space free \space to \space check \space out \space some \space of \space my \space projects.} } $$
+<h1 align="center">Hello World!<br>Feel free to check out some of my projects.</h1>
+
 <p align="center">
   <img src="./cat1.gif">
 </p>
 <h2 align="center">News</h2>
 <br>
-<code style="color : red"> 10. January 2024 - First release of PlantBERT https://github.com/nigelhartm/PlantBERT a large langauge model trained from scratch on plant genome data</code>
+<p></p>January 2024 - First release of PlantBERT https://github.com/nigelhartm/PlantBERT a large langauge model trained from scratch on plant genome data</p>
 <h2 align="center">Interest</h2>
 <br>
 <ul>
