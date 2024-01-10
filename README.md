@@ -6,7 +6,7 @@
 <h2 align="center">News</h2>
 <br>
 <p>
-$${\color{red}10. January 2024 - First release of PlantBERT https://github.com/nigelhartm/PlantBERT a large langauge model trained from scratch on plant genome data}$$
+<code style="color : red">10. January 2024 - First release of PlantBERT https://github.com/nigelhartm/PlantBERT a large langauge model trained from scratch on plant genome data</code>
 </p>
 <h2 align="center">Interest</h2>
 <br>
