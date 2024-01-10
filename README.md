@@ -15,7 +15,7 @@
   <li>data scraping</li>
   <li>Python</li>
   <li>Pytorch</li>
-  <li>GitLab CI/CD - Automatic deployments (SHELL)</li>
+  <li>GitLab CI/CD</li>
 </ul>
 
 <h2 align="center">About me</h2>
