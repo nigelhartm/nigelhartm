@@ -3,9 +3,9 @@
 <p align="center">
   <img src="./cat1.gif">
 </p>
-<h2 align="center">News</h2>
+<h2 align="center">Activities</h2>
 <br>
-<p></p>January 2024 - First release of PlantBERT https://github.com/nigelhartm/PlantBERT a large langauge model trained from scratch on plant genome data</p>
+<p>January 2024 - First release of PlantBERT https://github.com/nigelhartm/PlantBERT a large langauge model trained from scratch on plant genome data</p>
 <h2 align="center">Interest</h2>
 <br>
 <ul>
