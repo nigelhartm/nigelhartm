@@ -10,11 +10,11 @@
 <br>
 <ul>
   <li>Computer Networking/IoT</li>
-  <li>AI/ML/NLP</li>
+  <li>AI/ML/NLP(LLM)</li>
   <li>Image processing</li>
-  <li>C++ / x86 Assembly / electronics</li>
+  <li>C++ / x86 Assembly</li>
+  <li>electronics</li>
   <li>Bioinformatics</li>
-  <li>data scraping</li>
   <li>Python</li>
   <li>Pytorch</li>
   <li>GitLab CI/CD</li>
