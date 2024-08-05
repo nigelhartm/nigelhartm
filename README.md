@@ -12,6 +12,7 @@
   <li>Computer Networking/IoT</li>
   <li>AI/ML/NLP(LLM)</li>
   <li>Image processing</li>
+  <li>XR/AR/VR</li>
   <li>C++ / x86 Assembly</li>
   <li>electronics</li>
   <li>Bioinformatics</li>
