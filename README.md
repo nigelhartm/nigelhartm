@@ -9,7 +9,7 @@
 <a href="https://github.com/nigelhartm/XRHackBots"><img src="https://github.com/nigelhartm/XRHackBots/blob/main/preview.png" width="150px" height="150px"></a></li><br><br>
 <li><b>PlantBERT</b> https://github.com/nigelhartm/PlantBERT - PlantBERT is a large langauge model trained from scratch on plant genome data.<br>
 <a href="https://github.com/nigelhartm/PlantBERT"><img src="https://github.com/nigelhartm/PlantBERT/blob/main/img/logo_small.jpeg" width="150px" height="150px"></a></li>
-<br>
+
 <!-- <table align="left">
 <tr>
   <th>Preview</th>
