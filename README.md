@@ -5,10 +5,12 @@
 </p>
 <h2 align="center">Activities</h2>
 <br>
-<!-- <li><b>WonkyBots</b> https://github.com/nigelhartm/XRHackBots - With my group I was awarded for our educational project at the XRHack24, powered by Meta. </li>
-<li><b>PlantBERT</b> https://github.com/nigelhartm/PlantBERT - PlantBERT is a large langauge model trained from scratch on plant genome data</li> -->
+<li><b>WonkyBots</b> https://github.com/nigelhartm/XRHackBots - With my group I was awarded for our educational project at the XRHack24, powered by Meta.
+<img src="https://github.com/nigelhartm/XRHackBots/blob/main/preview.png" width="150px" height="150px"></li>
+<li><b>PlantBERT</b> https://github.com/nigelhartm/PlantBERT - PlantBERT is a large langauge model trained from scratch on plant genome data.
+<img src="https://github.com/nigelhartm/PlantBERT/blob/main/img/logo_small.jpeg" width="150px" height="150px"></li>
 
-<table align="left">
+<!-- <table align="left">
 <tr>
   <th>Preview</th>
   <th>Description</th>
@@ -20,10 +22,11 @@
   <td><a href="https://github.com/nigelhartm/XRHackBots">Repository</a></td>
 </tr>
 <tr>
-  <td><a href="https://github.com/nigelhartm/PlantBERT"><img src="https://github.com/nigelhartm/PlantBERT/blob/main/img/logo_small.jpeg" width="150px" height="150px"></a></td>
+  <td><img src="https://github.com/nigelhartm/PlantBERT/blob/main/img/logo_small.jpeg" width="150px" height="150px"></td>
   <td>PlantBERT is a large langauge model trained from scratch on plant genome data.</td>
+  <td><a href="https://github.com/nigelhartm/PlantBERT">Repository</a></td>
 </tr>
-</table>
+</table> -->
 
 <br>
 
