@@ -22,7 +22,7 @@
 <tr>
   <td><img src="https://github.com/nigelhartm/PlantBERT/blob/main/img/logo_small.jpeg" width="150px" height="150px"></td>
   <td>PlantBERT is a large langauge model trained from scratch on plant genome data.</td>
-  <td><a href="https://github.com/nigelhartm/PlantBERT">Repository</a></td>
+  <a href="https://github.com/nigelhartm/PlantBERT"><td>Repository</td></a>
 </tr>
 </table>
 
