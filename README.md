@@ -5,11 +5,11 @@
 </p>
 <h2 align="center">Activities</h2>
 <br>
-<li><b>WonkyBots</b> https://github.com/nigelhartm/XRHackBots - With my group I was awarded for our educational project at the XRHack24, powered by Meta.
-<img src="https://github.com/nigelhartm/XRHackBots/blob/main/preview.png" width="150px" height="150px"></li>
-<li><b>PlantBERT</b> https://github.com/nigelhartm/PlantBERT - PlantBERT is a large langauge model trained from scratch on plant genome data.
+<li><b>WonkyBots</b> https://github.com/nigelhartm/XRHackBots - With my group I was awarded for our educational project at the XRHack24, powered by Meta.<br>
+<img src="https://github.com/nigelhartm/XRHackBots/blob/main/preview.png" width="150px" height="150px"></li><br>
+<li><b>PlantBERT</b> https://github.com/nigelhartm/PlantBERT - PlantBERT is a large langauge model trained from scratch on plant genome data.<br>
 <img src="https://github.com/nigelhartm/PlantBERT/blob/main/img/logo_small.jpeg" width="150px" height="150px"></li>
-
+<br>
 <!-- <table align="left">
 <tr>
   <th>Preview</th>
