@@ -12,18 +12,21 @@
 <tr>
   <th>Preview</th>
   <th>Description</th>
+  <th>Link</th>
 </tr>
 <tr>
   <td><img src="https://github.com/nigelhartm/XRHackBots/blob/main/preview.png" width="150px" height="150px"></td>
   <td>With my group I was awarded for our educational project at the XRHack24, powered by Meta.</td>
+  <td><a href="https://github.com/nigelhartm/XRHackBots">Repository</a></td>
 </tr>
 <tr>
-  <td><img src="https://github.com/nigelhartm/XRHackBots/blob/main/preview.png" width="150px" height="150px"></td>
-  <td>With my group I was awarded for our educational project at the XRHack24, powered by Meta.</td>
+  <td><img src="https://github.com/nigelhartm/PlantBERT/blob/main/img/logo_small.jpeg" width="150px" height="150px"></td>
+  <td>PlantBERT is a large langauge model trained from scratch on plant genome data.</td>
+  <td><a href="https://github.com/nigelhartm/PlantBERT">Repository</a></td>
 </tr>
 </table>
 
-<br><br><br>
+<br>
 
 <h2 align="center">Interest</h2>
 <br>
