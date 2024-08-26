@@ -17,6 +17,7 @@
   <td><img src="https://github.com/nigelhartm/XRHackBots/blob/main/preview.png" width="150px" height="150px"></td>
   <td>With my group I was awarded for our educational project at the XRHack24, powered by Meta.</td>
 </tr>
+</table>
 
 <br>
 
