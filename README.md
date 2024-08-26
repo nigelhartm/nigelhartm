@@ -5,8 +5,8 @@
 </p>
 <h2 align="center">Activities</h2>
 <br>
-<li>__WonkyBots__ https://github.com/nigelhartm/XRHackBots - With my group I was awarded for our educational project at the XRHack24, powered by Meta. </li>
-<li>__PlantBERT__ https://github.com/nigelhartm/PlantBERT - PlantBERT is a large langauge model trained from scratch on plant genome data</li>
+<li><b>WonkyBots</b> https://github.com/nigelhartm/XRHackBots - With my group I was awarded for our educational project at the XRHack24, powered by Meta. </li>
+<li><b>PlantBERT</b> https://github.com/nigelhartm/PlantBERT - PlantBERT is a large langauge model trained from scratch on plant genome data</li>
 <h2 align="center">Interest</h2>
 <br>
 <ul>
