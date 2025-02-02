@@ -6,7 +6,7 @@
 <h2 align="center">Activities</h2>
 <br>
 <li><b>WonkyBots</b> https://github.com/nigelhartm/XRHackBots - With my group I was awarded for our educational project at the XRHack24, powered by Meta.<br>
-<a href="https://github.com/nigelhartm/XRHackBots"><img src="https://github.com/nigelhartm/XRHackBots/blob/main/preview.png" width="150px" height="150px"></a></li><br><br>
+<a href="https://github.com/nigelhartm/XRHackBots"><img src="https://github.com/nigelhartm/nigelhartm/blob/main/preview.png" width="150px" height="150px"></a></li><br><br>
 <li><b>PlantBERT</b> https://github.com/nigelhartm/PlantBERT - PlantBERT is a large langauge model trained from scratch on plant genome data.<br>
 <a href="https://github.com/nigelhartm/PlantBERT"><img src="https://github.com/nigelhartm/PlantBERT/blob/main/img/logo_small.jpeg" width="150px" height="150px"></a></li>
 
