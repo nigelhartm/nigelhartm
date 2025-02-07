@@ -1,8 +1,9 @@
-<h1 align="center">Hello World!<br>Feel free to check out some of my projects.</h1>
-
 <p align="center">
   <img src="./cat1.gif" width="180px" height="129px">
 </p>
+<h1 align="center">Hello World!<br>Feel free to check out some of my projects.</h1>
+
+
 <h2 align="center">Activities</h2>
 <br>
 <li><b>SpectaclesFoodMenu</b> https://github.com/nigelhartm/spectacles_food_menu - My first project for Snap Spectacles, showcasing a food menu app that integrates AR experiences into everyday tasks. <br>
