@@ -1,9 +1,27 @@
 
 <h1 align="center">Hello World!<br>Feel free to check out some of my projects.</h1>
 
-<p align="center">
+<!--<p align="center">
   <img src="./cat1.gif" width="180px" height="129px">
-</p>
+</p>-->
+
+<table align="center">
+<tr>
+  <th>Website</th>
+  <th>LinkedIn</th>
+  <th>Github</th>
+  <th>Kaggle</th>
+  <th>Huggingface</th>
+</tr>
+<tr>
+  <td><a href="https://nigelhartm.github.io/"><img src="github.svg" style="width:75px;height:75px;"></a></td>
+  <td><a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="linkedin.svg" style="width:75px;height:75px;"></a></td>
+  <td><a href="https://github.com/nigelhartm"><img src="github.svg" style="width:75px;height:75px;"></a></td>
+  <td><a href="https://www.kaggle.com/nigelhartm"><img src="kaggle.svg" style="width:75px;height:75px;"></a></td>
+  <td><a href="https://huggingface.co/nigelhartm"><img src="hugging-face.svg" style="width:75px;height:75px;"></a></td>
+</tr>
+</table> 
+
 <h2 align="center">Activities</h2>
 <br>
 <li><b>SpectaclesFoodMenu</b> https://github.com/nigelhartm/spectacles_food_menu - My first project for Snap Spectacles, showcasing a food menu app that integrates AR experiences into everyday tasks. <br><br>
