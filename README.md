@@ -50,6 +50,11 @@
 
 <br>
 
+
+
+<h2 align="center">About me</h2>
+<br>
+<p>I'm a software engineer with a strong background in telecommunications, passionate about the dynamic interplay of technology and science. While my expertise lies in telecommunications, I'm also intrigued by the captivating world of science and its potential to transform various industries. However, what truly excites me is the profound influence of machine learning on our rapidly evolving world. I'm continually exploring how machine learning is reshaping industries and driving innovation. Currently, I'm pursuing a Master's degree in Bioinformatics at the University of Potsdam, where I'm melding my telecom background with cutting-edge bioinformatics techniques. My ultimate goal is to leverage my diverse skill set to provide positive change and innovation across a broad spectrum of fields.</p>
 <h2 align="center">Interest</h2>
 <br>
 <ul>
@@ -64,11 +69,6 @@
   <li>Pytorch</li>
   <li>GitLab CI/CD</li>
 </ul>
-
-<h2 align="center">About me</h2>
-<br>
-<p>I'm a software engineer with a strong background in telecommunications, passionate about the dynamic interplay of technology and science. While my expertise lies in telecommunications, I'm also intrigued by the captivating world of science and its potential to transform various industries. However, what truly excites me is the profound influence of machine learning on our rapidly evolving world. I'm continually exploring how machine learning is reshaping industries and driving innovation. Currently, I'm pursuing a Master's degree in Bioinformatics at the University of Potsdam, where I'm melding my telecom background with cutting-edge bioinformatics techniques. My ultimate goal is to leverage my diverse skill set to provide positive change and innovation across a broad spectrum of fields.</p>
-
 <h2 align="center">Showcase</h2>
 Here are some previews of my projects, feel free to check out my repositories in detail.
 <img src="./showcase.gif">
