@@ -5,6 +5,8 @@
 </p>
 <h2 align="center">Activities</h2>
 <br>
+<li><b>SpectaclesFoodMenu</b> https://github.com/nigelhartm/spectacles_food_menu - My first project for Snap Spectacles, showcasing a food menu app that integrates AR experiences into everyday tasks. <br>
+<a href="https://github.com/nigelhartm/spectacles_food_menu"><img src="https://github.com/nigelhartm/nigelhartm/blob/main/spectacles_food_menu_preview.png" width="150px" height="150px"></a></li><br><br>
 <li><b>WonkyBots</b> https://github.com/nigelhartm/XRHackBots - With my group I was awarded for our educational project at the XRHack24, powered by Meta.<br>
 <a href="https://github.com/nigelhartm/XRHackBots"><img src="https://github.com/nigelhartm/nigelhartm/blob/main/preview.png" width="150px" height="150px"></a></li><br><br>
 <li><b>PlantBERT</b> https://github.com/nigelhartm/PlantBERT - PlantBERT is a large langauge model trained from scratch on plant genome data.<br>
