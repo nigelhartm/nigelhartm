@@ -5,13 +5,13 @@
 </p>-->
 
 <table align="center">
-<tr>
+<!--<tr>
   <th>Website</th>
   <th>LinkedIn</th>
   <th>Github</th>
   <th>Kaggle</th>
   <th>Huggingface</th>
-</tr>
+</tr>-->
 <tr>
   <td><a href="https://www.nigelhartman.de"><img src="blog.png" style="width:75px;height:75px;"></a></td>
   <td><a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="linkedin.svg" style="width:75px;height:75px;"></a></td>
