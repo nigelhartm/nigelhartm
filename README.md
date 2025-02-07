@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello World!<br>Feel free to check out some of my projects.</h1>
 
 <!--<p align="center">
@@ -14,7 +13,7 @@
   <th>Huggingface</th>
 </tr>
 <tr>
-  <td><a href="https://nigelhartm.github.io/"><img src="github.svg" style="width:75px;height:75px;"></a></td>
+  <td><a href="https://www.nigelhartman.de"><img src="blogging.png" style="width:75px;height:75px;"></a></td>
   <td><a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="linkedin.svg" style="width:75px;height:75px;"></a></td>
   <td><a href="https://github.com/nigelhartm"><img src="github.svg" style="width:75px;height:75px;"></a></td>
   <td><a href="https://www.kaggle.com/nigelhartm"><img src="kaggle.svg" style="width:75px;height:75px;"></a></td>
@@ -74,16 +73,15 @@
 Here are some previews of my projects, feel free to check out my repositories in detail.
 <img src="./showcase.gif">
 
-<h2 align="center">Check out my [...]</h2>
+<!--<h2 align="center">Check out my [...]</h2>
 <br>
-<!--
 <div align="center">
 <a href="https://github.com/nigelhartm"><img src="github.svg" style="width:50px;height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.kaggle.com/nigelhartm"><img src="kaggle.svg" style="width:50px;height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/nigelhartm"><img src="hugging-face.svg" style="width:50px;height:50px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="linkedin.svg" style="width:50px;height:50px;"></a>
 </div>
--->
+
 <table align="center">
 <tr>
   <th>Website</th>
@@ -100,3 +98,4 @@ Here are some previews of my projects, feel free to check out my repositories in
   <td><a href="https://huggingface.co/nigelhartm"><img src="hugging-face.svg" style="width:75px;height:75px;"></a></td>
 </tr>
 </table> 
+-->
