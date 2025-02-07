@@ -13,7 +13,7 @@
   <th>Huggingface</th>
 </tr>
 <tr>
-  <td><a href="https://www.nigelhartman.de"><img src="blogging.png" style="width:75px;height:75px;"></a></td>
+  <td><a href="https://www.nigelhartman.de"><img src="blog.png" style="width:75px;height:75px;"></a></td>
   <td><a href="https://www.linkedin.com/in/nigel-hartman-a24437179/"><img src="linkedin.svg" style="width:75px;height:75px;"></a></td>
   <td><a href="https://github.com/nigelhartm"><img src="github.svg" style="width:75px;height:75px;"></a></td>
   <td><a href="https://www.kaggle.com/nigelhartm"><img src="kaggle.svg" style="width:75px;height:75px;"></a></td>
