@@ -3,7 +3,7 @@
 <!--<p align="center">
   <img src="./cat1.gif" width="180px" height="129px">
 </p>-->
-<h2 align="center">Plattforms</h2>
+<h2 align="center">Web</h2>
 <table align="center">
 <!--<tr>
   <th>Website</th>
