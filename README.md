@@ -20,7 +20,7 @@
   <td><a href="https://huggingface.co/nigelhartm"><img src="hugging-face.svg" style="width:75px;height:75px;"></a></td>
 </tr>
 </table> 
-
+<!--
 <h2 align="center">Activities</h2>
 <br>
 <li><b>SpectaclesFoodMenu</b> https://github.com/nigelhartm/spectacles_food_menu - My first project for Snap Spectacles, showcasing a food menu app that integrates AR experiences into everyday tasks. <br><br>
@@ -29,7 +29,7 @@
 <a href="https://github.com/nigelhartm/XRHackBots"><img src="https://github.com/nigelhartm/nigelhartm/blob/main/preview.png" width="175px" height="175px"></a></li><br><br>
 <li><b>PlantBERT</b> https://github.com/nigelhartm/PlantBERT - PlantBERT is a large langauge model trained from scratch on plant genome data.<br><br>
 <a href="https://github.com/nigelhartm/PlantBERT"><img src="https://github.com/nigelhartm/PlantBERT/blob/main/img/logo_small.jpeg" width="175px" height="175px"></a></li>
-
+-->
 <!-- <table align="left">
 <tr>
   <th>Preview</th>
