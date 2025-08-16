@@ -6,7 +6,6 @@
 <h2 align="center">Anchors</h2>
 <table align="center">
 <tr>
-  <th>Website</th>
   <th>LinkedIn</th>
   <th>Github</th>
   <th>Kaggle</th>
