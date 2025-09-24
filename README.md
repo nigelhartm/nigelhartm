@@ -7,7 +7,7 @@
 <table align="center">
 <tr>
   <th>Website</th>
-  <th>FunctionForest</th>
+  <th>Function Forest</th>
   <th>LinkedIn</th>
   <th>Github</th>
   <th>Kaggle</th>
